@@ -10,4 +10,12 @@
 
 @implementation ListNode
 
+-(instancetype)init:(NSInteger)x {
+    self = [super init];
+    if (self) {
+        self.val = x;
+    }
+    return self;
+}
+
 @end

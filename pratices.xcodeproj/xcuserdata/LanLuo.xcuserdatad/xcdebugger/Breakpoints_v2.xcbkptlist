@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "038B91ED-54A7-4491-B465-07A74DD9B6A3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "219D77A8-B9CF-44E3-9601-54A06101121D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pratices/sodokuQuestion.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "-solveSodokuQuestion:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "219D77A8-B9CF-44E3-9601-54A06101121D - e62ba7cc96b4b135"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[sodokuQuestion solveSodokuQuestion:]"
+                  moduleName = "praticesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LanLuo/Desktop/pratices/pratices/sodokuQuestion.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "219D77A8-B9CF-44E3-9601-54A06101121D - 74cf1bf289af492d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[sodokuQuestion solveSodokuQuestion:]"
+                  moduleName = "pratices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LanLuo/Desktop/pratices/pratices/sodokuQuestion.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

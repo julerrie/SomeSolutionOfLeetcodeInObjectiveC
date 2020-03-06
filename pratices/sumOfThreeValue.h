@@ -1,5 +1,5 @@
 //
-//  ListNode.h
+//  sumOfThreeValue.h
 //  pratices
 //
 //  Created by Lan Luo on 2020/03/05.
@@ -10,12 +10,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface ListNode : NSObject
+@interface sumOfThreeValue : NSObject
 
-@property (nonatomic, assign) NSInteger val;
-@property (nonatomic) ListNode *next;
-
-- (instancetype)init: (NSInteger)x;
+-(NSMutableArray *)sumOfThreeValue:(NSArray *)inputArray;
 
 @end
 

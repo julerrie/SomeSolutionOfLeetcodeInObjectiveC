@@ -9,7 +9,26 @@
 /* Begin PBXBuildFile section */
 		E7508A5D240E0A6D00F04160 /* pratices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7508A53240E0A6D00F04160 /* pratices.framework */; };
 		E7508A62240E0A6D00F04160 /* praticesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A61240E0A6D00F04160 /* praticesTests.m */; };
-		E7508A64240E0A6D00F04160 /* pratices.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A56240E0A6D00F04160 /* pratices.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7508A64240E0A6D00F04160 /* pratices.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A56240E0A6D00F04160 /* pratices.h */; };
+		E7508A6E240E0AA200F04160 /* pratices.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A6D240E0AA200F04160 /* pratices.m */; };
+		E7508A70240F4BDC00F04160 /* NQueenProblem.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A6F240F4BDB00F04160 /* NQueenProblem.h */; };
+		E7508A72240F4BFC00F04160 /* NQueenProblem.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A71240F4BFC00F04160 /* NQueenProblem.m */; };
+		E7508A76240F78DD00F04160 /* RecursiveProblem.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A74240F78DD00F04160 /* RecursiveProblem.h */; };
+		E7508A77240F78DD00F04160 /* RecursiveProblem.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A75240F78DD00F04160 /* RecursiveProblem.m */; };
+		E7508A7A240F7C7900F04160 /* NQueenProblem.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A71240F4BFC00F04160 /* NQueenProblem.m */; };
+		E7508A7B240F7C7900F04160 /* RecursiveProblem.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A75240F78DD00F04160 /* RecursiveProblem.m */; };
+		E7508A7E2410E6AA00F04160 /* reverseNodes.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A7C2410E6AA00F04160 /* reverseNodes.h */; };
+		E7508A7F2410E6AA00F04160 /* reverseNodes.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A7D2410E6AA00F04160 /* reverseNodes.m */; };
+		E7508A802410E6AA00F04160 /* reverseNodes.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A7D2410E6AA00F04160 /* reverseNodes.m */; };
+		E7508A832410E6F900F04160 /* ListNode.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A812410E6F900F04160 /* ListNode.h */; };
+		E7508A842410E6F900F04160 /* ListNode.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A822410E6F900F04160 /* ListNode.m */; };
+		E7508A852410E6F900F04160 /* ListNode.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A822410E6F900F04160 /* ListNode.m */; };
+		E7508A882410F1C400F04160 /* sumOfThreeValue.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A862410F1C400F04160 /* sumOfThreeValue.h */; };
+		E7508A892410F1C400F04160 /* sumOfThreeValue.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A872410F1C400F04160 /* sumOfThreeValue.m */; };
+		E7508A8A2410F1C400F04160 /* sumOfThreeValue.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A872410F1C400F04160 /* sumOfThreeValue.m */; };
+		E7508A8D2412838F00F04160 /* sodokuQuestion.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A8B2412838F00F04160 /* sodokuQuestion.h */; };
+		E7508A8E2412838F00F04160 /* sodokuQuestion.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A8C2412838F00F04160 /* sodokuQuestion.m */; };
+		E7508A8F2412838F00F04160 /* sodokuQuestion.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A8C2412838F00F04160 /* sodokuQuestion.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +48,19 @@
 		E7508A5C240E0A6D00F04160 /* praticesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = praticesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7508A61240E0A6D00F04160 /* praticesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = praticesTests.m; sourceTree = "<group>"; };
 		E7508A63240E0A6D00F04160 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7508A6D240E0AA200F04160 /* pratices.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = pratices.m; sourceTree = "<group>"; };
+		E7508A6F240F4BDB00F04160 /* NQueenProblem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NQueenProblem.h; sourceTree = "<group>"; };
+		E7508A71240F4BFC00F04160 /* NQueenProblem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NQueenProblem.m; sourceTree = "<group>"; };
+		E7508A74240F78DD00F04160 /* RecursiveProblem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RecursiveProblem.h; sourceTree = "<group>"; };
+		E7508A75240F78DD00F04160 /* RecursiveProblem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RecursiveProblem.m; sourceTree = "<group>"; };
+		E7508A7C2410E6AA00F04160 /* reverseNodes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = reverseNodes.h; sourceTree = "<group>"; };
+		E7508A7D2410E6AA00F04160 /* reverseNodes.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = reverseNodes.m; sourceTree = "<group>"; };
+		E7508A812410E6F900F04160 /* ListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ListNode.h; sourceTree = "<group>"; };
+		E7508A822410E6F900F04160 /* ListNode.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ListNode.m; sourceTree = "<group>"; };
+		E7508A862410F1C400F04160 /* sumOfThreeValue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sumOfThreeValue.h; sourceTree = "<group>"; };
+		E7508A872410F1C400F04160 /* sumOfThreeValue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sumOfThreeValue.m; sourceTree = "<group>"; };
+		E7508A8B2412838F00F04160 /* sodokuQuestion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sodokuQuestion.h; sourceTree = "<group>"; };
+		E7508A8C2412838F00F04160 /* sodokuQuestion.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sodokuQuestion.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +104,20 @@
 			isa = PBXGroup;
 			children = (
 				E7508A56240E0A6D00F04160 /* pratices.h */,
+				E7508A6D240E0AA200F04160 /* pratices.m */,
+				E7508A6F240F4BDB00F04160 /* NQueenProblem.h */,
+				E7508A71240F4BFC00F04160 /* NQueenProblem.m */,
 				E7508A57240E0A6D00F04160 /* Info.plist */,
+				E7508A74240F78DD00F04160 /* RecursiveProblem.h */,
+				E7508A812410E6F900F04160 /* ListNode.h */,
+				E7508A822410E6F900F04160 /* ListNode.m */,
+				E7508A7C2410E6AA00F04160 /* reverseNodes.h */,
+				E7508A7D2410E6AA00F04160 /* reverseNodes.m */,
+				E7508A75240F78DD00F04160 /* RecursiveProblem.m */,
+				E7508A862410F1C400F04160 /* sumOfThreeValue.h */,
+				E7508A872410F1C400F04160 /* sumOfThreeValue.m */,
+				E7508A8B2412838F00F04160 /* sodokuQuestion.h */,
+				E7508A8C2412838F00F04160 /* sodokuQuestion.m */,
 			);
 			path = pratices;
 			sourceTree = "<group>";
@@ -93,7 +138,13 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7508A70240F4BDC00F04160 /* NQueenProblem.h in Headers */,
+				E7508A7E2410E6AA00F04160 /* reverseNodes.h in Headers */,
+				E7508A8D2412838F00F04160 /* sodokuQuestion.h in Headers */,
+				E7508A882410F1C400F04160 /* sumOfThreeValue.h in Headers */,
 				E7508A64240E0A6D00F04160 /* pratices.h in Headers */,
+				E7508A832410E6F900F04160 /* ListNode.h in Headers */,
+				E7508A76240F78DD00F04160 /* RecursiveProblem.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,6 +245,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7508A77240F78DD00F04160 /* RecursiveProblem.m in Sources */,
+				E7508A6E240E0AA200F04160 /* pratices.m in Sources */,
+				E7508A7F2410E6AA00F04160 /* reverseNodes.m in Sources */,
+				E7508A8E2412838F00F04160 /* sodokuQuestion.m in Sources */,
+				E7508A842410E6F900F04160 /* ListNode.m in Sources */,
+				E7508A72240F4BFC00F04160 /* NQueenProblem.m in Sources */,
+				E7508A892410F1C400F04160 /* sumOfThreeValue.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,7 +259,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7508A7A240F7C7900F04160 /* NQueenProblem.m in Sources */,
+				E7508A7B240F7C7900F04160 /* RecursiveProblem.m in Sources */,
+				E7508A802410E6AA00F04160 /* reverseNodes.m in Sources */,
+				E7508A8F2412838F00F04160 /* sodokuQuestion.m in Sources */,
+				E7508A852410E6F900F04160 /* ListNode.m in Sources */,
 				E7508A62240E0A6D00F04160 /* praticesTests.m in Sources */,
+				E7508A8A2410F1C400F04160 /* sumOfThreeValue.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

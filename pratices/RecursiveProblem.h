@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface RecursiveProblem : NSObject
 
+- (NSMutableArray *)recursiveProblem:(NSMutableArray *)array;
+
 @end
 
 NS_ASSUME_NONNULL_END

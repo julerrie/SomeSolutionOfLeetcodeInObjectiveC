@@ -6,8 +6,8 @@
 //  Copyright © 2020 Lan. All rights reserved.
 //
 
-#ifndef NQueenProblem_h
-#define NQueenProblem_h
+#import <Foundation/Foundation.h>
 
-
-#endif /* NQueenProblem_h */
+@interface NQueen: NSObject
+- (NSMutableArray *)nQueenAlgorithm:(NSInteger)num;
+@end
