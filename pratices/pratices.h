@@ -8,12 +8,19 @@
 
 #import <Foundation/Foundation.h>
 
-//! Project version number for pratices.
-FOUNDATION_EXPORT double praticesVersionNumber;
-
-//! Project version string for pratices.
-FOUNDATION_EXPORT const unsigned char praticesVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <pratices/PublicHeader.h>
+#import "NQueenProblem.h"
+#import "RecursiveProblem.h"
 
 
+
+void selectionSort(NSMutableArray *arr);
+
+void bubbleSort(NSMutableArray *arr);
+
+void insersionSort(NSMutableArray *arr);
+
+void mergeSort(NSMutableArray *arr);
+
+void quickSort(NSMutableArray *arr);
+
+void objcSort(NSMutableArray *arr);
