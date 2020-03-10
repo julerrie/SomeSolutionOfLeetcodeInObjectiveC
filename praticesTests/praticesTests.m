@@ -14,6 +14,9 @@
 #import "reverseNodes.h"
 #import "sumOfThreeValue.h"
 #import "sodokuQuestion.h"
+#import "patitionQuestionOfDP.h"
+#import "rodCuttingDP.h"
+#import "productOfTwoString.h"
 
 
 @interface praticesTests : XCTestCase
@@ -124,4 +127,23 @@
     [test solveSodokuQuestion:arr];
 }
 
+-(void)testPartitionQuestion {
+    NSArray *arr = @[@7, @3, @1, @5, @4, @8];
+    patitionQuestionOfDP *test = [[patitionQuestionOfDP alloc]init];
+    [test solvePatitionQuestion:arr];
+}
+
+
+-(void)testRodCuttingDP {
+    NSArray *arr = @[@1, @5, @8, @9, @10, @17, @17, @20 ];
+    rodCuttingDP *test = [[rodCuttingDP alloc]init];
+    [test solveRodCuttingDP:arr andRodLength:4];
+}
+
+-(void)testProductOfTwoString {
+    NSString *str1 = @"99";
+    NSString *str2 = @"52";
+    productOfTwoString *test = [[productOfTwoString alloc]init];
+    [test productOfTwoString:str1 andStr2:str2];
+}
 @end

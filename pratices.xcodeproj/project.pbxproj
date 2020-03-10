@@ -29,6 +29,15 @@
 		E7508A8D2412838F00F04160 /* sodokuQuestion.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A8B2412838F00F04160 /* sodokuQuestion.h */; };
 		E7508A8E2412838F00F04160 /* sodokuQuestion.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A8C2412838F00F04160 /* sodokuQuestion.m */; };
 		E7508A8F2412838F00F04160 /* sodokuQuestion.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A8C2412838F00F04160 /* sodokuQuestion.m */; };
+		E7508A922415DB7F00F04160 /* patitionQuestionOfDP.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A902415DB7F00F04160 /* patitionQuestionOfDP.h */; };
+		E7508A932415DB7F00F04160 /* patitionQuestionOfDP.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A912415DB7F00F04160 /* patitionQuestionOfDP.m */; };
+		E7508A942415DB7F00F04160 /* patitionQuestionOfDP.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A912415DB7F00F04160 /* patitionQuestionOfDP.m */; };
+		E7508A972415EAB400F04160 /* rodCuttingDP.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A952415EAB400F04160 /* rodCuttingDP.h */; };
+		E7508A982415EAB400F04160 /* rodCuttingDP.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A962415EAB400F04160 /* rodCuttingDP.m */; };
+		E7508A992415EAB400F04160 /* rodCuttingDP.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A962415EAB400F04160 /* rodCuttingDP.m */; };
+		E7508A9C2417B94D00F04160 /* productOfTwoString.h in Headers */ = {isa = PBXBuildFile; fileRef = E7508A9A2417B94D00F04160 /* productOfTwoString.h */; };
+		E7508A9D2417B94D00F04160 /* productOfTwoString.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A9B2417B94D00F04160 /* productOfTwoString.m */; };
+		E7508A9E2417C0A500F04160 /* productOfTwoString.m in Sources */ = {isa = PBXBuildFile; fileRef = E7508A9B2417B94D00F04160 /* productOfTwoString.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +70,12 @@
 		E7508A872410F1C400F04160 /* sumOfThreeValue.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sumOfThreeValue.m; sourceTree = "<group>"; };
 		E7508A8B2412838F00F04160 /* sodokuQuestion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sodokuQuestion.h; sourceTree = "<group>"; };
 		E7508A8C2412838F00F04160 /* sodokuQuestion.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sodokuQuestion.m; sourceTree = "<group>"; };
+		E7508A902415DB7F00F04160 /* patitionQuestionOfDP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = patitionQuestionOfDP.h; sourceTree = "<group>"; };
+		E7508A912415DB7F00F04160 /* patitionQuestionOfDP.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = patitionQuestionOfDP.m; sourceTree = "<group>"; };
+		E7508A952415EAB400F04160 /* rodCuttingDP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rodCuttingDP.h; sourceTree = "<group>"; };
+		E7508A962415EAB400F04160 /* rodCuttingDP.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rodCuttingDP.m; sourceTree = "<group>"; };
+		E7508A9A2417B94D00F04160 /* productOfTwoString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = productOfTwoString.h; sourceTree = "<group>"; };
+		E7508A9B2417B94D00F04160 /* productOfTwoString.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = productOfTwoString.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,11 +125,17 @@
 				E7508A57240E0A6D00F04160 /* Info.plist */,
 				E7508A74240F78DD00F04160 /* RecursiveProblem.h */,
 				E7508A812410E6F900F04160 /* ListNode.h */,
+				E7508A902415DB7F00F04160 /* patitionQuestionOfDP.h */,
+				E7508A912415DB7F00F04160 /* patitionQuestionOfDP.m */,
 				E7508A822410E6F900F04160 /* ListNode.m */,
 				E7508A7C2410E6AA00F04160 /* reverseNodes.h */,
 				E7508A7D2410E6AA00F04160 /* reverseNodes.m */,
 				E7508A75240F78DD00F04160 /* RecursiveProblem.m */,
+				E7508A952415EAB400F04160 /* rodCuttingDP.h */,
+				E7508A962415EAB400F04160 /* rodCuttingDP.m */,
 				E7508A862410F1C400F04160 /* sumOfThreeValue.h */,
+				E7508A9A2417B94D00F04160 /* productOfTwoString.h */,
+				E7508A9B2417B94D00F04160 /* productOfTwoString.m */,
 				E7508A872410F1C400F04160 /* sumOfThreeValue.m */,
 				E7508A8B2412838F00F04160 /* sodokuQuestion.h */,
 				E7508A8C2412838F00F04160 /* sodokuQuestion.m */,
@@ -143,8 +164,11 @@
 				E7508A8D2412838F00F04160 /* sodokuQuestion.h in Headers */,
 				E7508A882410F1C400F04160 /* sumOfThreeValue.h in Headers */,
 				E7508A64240E0A6D00F04160 /* pratices.h in Headers */,
+				E7508A922415DB7F00F04160 /* patitionQuestionOfDP.h in Headers */,
 				E7508A832410E6F900F04160 /* ListNode.h in Headers */,
 				E7508A76240F78DD00F04160 /* RecursiveProblem.h in Headers */,
+				E7508A972415EAB400F04160 /* rodCuttingDP.h in Headers */,
+				E7508A9C2417B94D00F04160 /* productOfTwoString.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,9 +271,12 @@
 			files = (
 				E7508A77240F78DD00F04160 /* RecursiveProblem.m in Sources */,
 				E7508A6E240E0AA200F04160 /* pratices.m in Sources */,
+				E7508A932415DB7F00F04160 /* patitionQuestionOfDP.m in Sources */,
 				E7508A7F2410E6AA00F04160 /* reverseNodes.m in Sources */,
+				E7508A9D2417B94D00F04160 /* productOfTwoString.m in Sources */,
 				E7508A8E2412838F00F04160 /* sodokuQuestion.m in Sources */,
 				E7508A842410E6F900F04160 /* ListNode.m in Sources */,
+				E7508A982415EAB400F04160 /* rodCuttingDP.m in Sources */,
 				E7508A72240F4BFC00F04160 /* NQueenProblem.m in Sources */,
 				E7508A892410F1C400F04160 /* sumOfThreeValue.m in Sources */,
 			);
@@ -259,11 +286,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7508A9E2417C0A500F04160 /* productOfTwoString.m in Sources */,
 				E7508A7A240F7C7900F04160 /* NQueenProblem.m in Sources */,
 				E7508A7B240F7C7900F04160 /* RecursiveProblem.m in Sources */,
+				E7508A942415DB7F00F04160 /* patitionQuestionOfDP.m in Sources */,
 				E7508A802410E6AA00F04160 /* reverseNodes.m in Sources */,
 				E7508A8F2412838F00F04160 /* sodokuQuestion.m in Sources */,
 				E7508A852410E6F900F04160 /* ListNode.m in Sources */,
+				E7508A992415EAB400F04160 /* rodCuttingDP.m in Sources */,
 				E7508A62240E0A6D00F04160 /* praticesTests.m in Sources */,
 				E7508A8A2410F1C400F04160 /* sumOfThreeValue.m in Sources */,
 			);

@@ -7,47 +7,95 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "219D77A8-B9CF-44E3-9601-54A06101121D"
+            uuid = "9D8B385D-BB1C-4726-A57D-48CA64481E9B"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "pratices/sodokuQuestion.m"
+            filePath = "pratices/productOfTwoString.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
-            landmarkName = "-solveSodokuQuestion:"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "-productOfTwoString:andStr2:"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "219D77A8-B9CF-44E3-9601-54A06101121D - e62ba7cc96b4b135"
+                  uuid = "9D8B385D-BB1C-4726-A57D-48CA64481E9B - f02efaffa2e709c9"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "-[sodokuQuestion solveSodokuQuestion:]"
+                  symbolName = "-[productOfTwoString productOfTwoString:andStr2:]"
                   moduleName = "praticesTests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/LanLuo/Desktop/pratices/pratices/sodokuQuestion.m"
+                  urlString = "file:///Users/LanLuo/Desktop/pratices/pratices/productOfTwoString.m"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "76"
-                  endingLineNumber = "76"
-                  offsetFromSymbolStart = "76">
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1484">
                </Location>
                <Location
-                  uuid = "219D77A8-B9CF-44E3-9601-54A06101121D - 74cf1bf289af492d"
+                  uuid = "9D8B385D-BB1C-4726-A57D-48CA64481E9B - 62ca46c1bdfcf1d1"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "-[sodokuQuestion solveSodokuQuestion:]"
+                  symbolName = "-[productOfTwoString productOfTwoString:andStr2:]"
                   moduleName = "pratices"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/LanLuo/Desktop/pratices/pratices/sodokuQuestion.m"
+                  urlString = "file:///Users/LanLuo/Desktop/pratices/pratices/productOfTwoString.m"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "76"
-                  endingLineNumber = "76"
-                  offsetFromSymbolStart = "76">
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9154BB9-C721-41F4-B52D-E5254A3AE47B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pratices/productOfTwoString.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-productOfTwoString:andStr2:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9154BB9-C721-41F4-B52D-E5254A3AE47B - f02efaffa2e709c9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[productOfTwoString productOfTwoString:andStr2:]"
+                  moduleName = "praticesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LanLuo/Desktop/pratices/pratices/productOfTwoString.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "345">
+               </Location>
+               <Location
+                  uuid = "B9154BB9-C721-41F4-B52D-E5254A3AE47B - 62ca46c1bdfcf1d1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[productOfTwoString productOfTwoString:andStr2:]"
+                  moduleName = "pratices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LanLuo/Desktop/pratices/pratices/productOfTwoString.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "345">
                </Location>
             </Locations>
          </BreakpointContent>
